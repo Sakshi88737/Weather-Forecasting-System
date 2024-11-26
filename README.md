@@ -5,9 +5,10 @@ The “Weather Forecasting System” is an expert system aimed at providing real
 ### Source of Data
 
 The weather data used in this project is sourced from the OpenWeather API. OpenWeather provides free API services to fetch weather information worldwide. It includes various types of weather data such as current weather, historical weather, forecasts and even air pollution levels. For this project, I have used the Current Weather Data API endpoint to fetch real-time weather data for selected cities which includes the following weather parameters:
-•	Temperature (in Celsius)
-•	Humidity (percentage)
-•	Weather description (such as clear sky, rain, etc.)
-•	Wind speed
-•	Pressure
+
+1.	Temperature (in Celsius)
+2. Humidity (percentage)
+3. Weather description (such as clear sky, rain, etc.)
+4. 	Wind speed
+5. 	Pressure
 The weather data is returned in JSON format and the system extracts and displays key data points for the user.
